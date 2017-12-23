@@ -4,7 +4,7 @@ bio:            'Global Patch Notes'
 description:    “”
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://GlobalPatchNotes.github.io
+url:            https://GlobalPatchNotes.github.io/GlobalPatchNotes
 
 
 # Jekyll

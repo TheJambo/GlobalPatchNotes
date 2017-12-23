@@ -27,7 +27,7 @@ On December 22, 2017, President Trump signed the Tax Cuts and Jobs Act. This act
 	 - Other Dependents Credit: \$0 <span style="color:green">⇒</span> \$500
  - Home
 	 - Mortgage Interest Deduction: \$1,000,000 <span style="color:red">⇒</span> \$750,000
-	 - Home Equity Load Deduction: $100,000 Good <span style="color:red">⇒ Removed</span>
+	 - Home Equity Load Deduction: $100,000 <span style="color:red">⇒ Removed</span>
  - Medical
 	 - Medical Pocket Deductions Threshold: 10% AGI <span style="color:green">⇒</span> 7.5% AGI *(2017 and 2018 ONLY)*
  - Other

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Global Patch Notes
-tags: [about, Global, Patch, Notes]
+title: About UK Patch Notes
+tags: [about, UK, Patch, Notes]
 date: 2017-12-22
 ---
 
